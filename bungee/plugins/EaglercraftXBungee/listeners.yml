@@ -10,7 +10,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: https://ih1.redbubble.net/image.4736104379.1080/st,small,507x507-pad,600x600,f8f8f8.jpg
   server_motd:
-  - '&6An Lime-MC'
+  - '&aLime-MC'
   allow_motd: true
   allow_query: true
   request_motd_cache:
